@@ -5,7 +5,7 @@ import androidx.annotation.StringRes
 import com.example.woofapp.R
 
 /*
-* Informacion del card
+* Information del card
 * */
 data class Dog(
     @DrawableRes val imageResourceId: Int,
